@@ -1,2 +1,1 @@
-# hilton_school
-test
+# SchoolApp
